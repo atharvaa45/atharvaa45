@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/10fc3fd3-a655-4629-907d-0e8a2bf98c46)
-#[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]([https://rishavchanda.io](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)) 
 <h1 align="center">Hi 👋, I'm Atharva Yogesh Honrao</h1>
 <h3 align="center">A passionate Data Science enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +8,7 @@
 
 - 🔭 I’m currently working on a **Deep DNA Classifier**
 
-- 🌱 Exploring **Backend technologies.**
+- 🌱 Exploring **Natural Language Processing (NLP)**
 
 
 - 💬 Ask me about **Java, Python, SQL, R, MATLAB, HTML, CSS, JavaScript**
