@@ -44,8 +44,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahush18&show_icons=true&locale=en&layout=compact" alt="nahush18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaa45&show_icons=true&locale=en&layout=compact" alt="atharvaa45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahush18&show_icons=true&locale=en" alt="nahush18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaa45&show_icons=true&locale=en" alt="atharvaa45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahush18&" alt="nahush18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaa45&" alt="atharvaa45" /></p>
