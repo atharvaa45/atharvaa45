@@ -6,12 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaa45" alt="atharvaa45" /></a> </p>
 
-- 🔭 I’m currently working on a **Deep DNA Classifier**
+- 🔭 I’m currently working on a **Financial Compliance Intelligence System using Evaluated RAG**
 
-- 🌱 Exploring **Natural Language Processing (NLP)**
+- 🌱 Exploring **GenAI, LLMs and RAG**
 
 
-- 💬 Ask me about **Java, Python, SQL, R, MATLAB, HTML, CSS, JavaScript**
+- 💬 Ask me about **Programming Languages: Python, SQL, TypeScript, R,  Java 
+Machine Learning & Data Science: Machine Learning, Deep Learning, Computer Vision, Predictive Modeling, Time Series Analysis, Model Evaluation, 
+Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines 
+Generative AI & LLM Systems: RAG, LangChain, Hugging Face, OpenAI API, Vector Databases (FAISS / ChromaDB), Prompt Engineering 
+ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Spark 
+Data, Cloud & Web: Tableau, Streamlit, Flask, Django, Plotly, Seaborn, MongoDB, Docker, AWS (EC2, S3), Git, GitHub, React.js, Next.js, Node.js, GCP**
 
 - 📫 How to reach me **ayharch1411@gmail.com**
 
