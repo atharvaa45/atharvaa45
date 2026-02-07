@@ -25,7 +25,7 @@ Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines**
 
 - 📫 How to reach me **ayharch1411@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15_aK34OjX7eU2tCIbCSpkyJeEewSRRrT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18wbWPNhEY7tEATOfC1CO1jXVmwlBRqln/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
